@@ -2,8 +2,7 @@
 
 Wanderlust Technologies is a full-stack website built using Node.js, Express.js, HTML, CSS, Bootstrap , and MongoDB. It offers a comprehensive suite of features including user authentication (signup/login) and CRUD operations. The website is designed to be fully responsive, ensuring a seamless experience across various devices.
 
-## LINK: https://wanderlust-ipay.onrender.com/ 
-
+## LINK: https://wanderlust-travel-listings.onrender.com/listings
 ## Introduction
 
 Wanderlust Technologies is a web application aimed at providing users with a platform to explore and share their travel experiences. Whether it's discovering new destinations, planning trips, or documenting adventures, our website offers a user-friendly interface and robust functionality to meet the needs of travel enthusiasts.
